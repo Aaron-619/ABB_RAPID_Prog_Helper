@@ -14,4 +14,6 @@ If you clone this repo in a network folder, try this:
     Click Advanced button
     Enter file://[computer name]
     Make sure 'Require server verification...' is unticked
-    
+
+
+    Hello Denis, Do you an email to contac to you ?. I have some questions about it.
